@@ -1,6 +1,6 @@
 ## Hey, I’m Shaptak 👋
 
-🚀 **AI-Assisted Developer & Automation Enthusiast**  
+🚀 **AI-Assisted Software Developer & Automation Enthusiast**  
 📍 Kolkata, India
 
 I build practical, AI-powered automation tools that turn repetitive workflows into clean, reliable systems.  
