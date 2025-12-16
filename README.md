@@ -10,11 +10,6 @@ I’m passionate about simplifying business and creative processes, and I genuin
 
 ---
 
-### 🛠 Tech I Work With
-**Python · JavaScript · Google APIs · AI Automation · Backend Workflows · Telegram Bots · Linux · Windows**
-
----
-
 ### 🌐 Find Me Around
 - ▶️ **YouTube:** https://youtube.com/@BigSmokeYT  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shaptak/  
