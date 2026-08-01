@@ -120,11 +120,7 @@ When **arter97** stopped maintaining the NothingMuch ROM for the Nothing Phone (
 | **[ADBCommander](https://github.com/ShaptakNaskar/ADBCommander)** | Cross-platform GUI for ADB — manage Android devices without touching a terminal | TypeScript |
 | **[ChronoNet](https://github.com/ShaptakNaskar/ChronoNet)** | `CHRONO//NET` — cyberpunk clock suite driving the Nothing Phone (2) Glyph LEDs | Dart |
 | **[gamesynch](https://github.com/ShaptakNaskar/gamesynch)** | Steam-Cloud-style save sync, but for non-Steam games | Rust |
-| **[DecryptTruck](https://github.com/ShaptakNaskar/DecryptTruck)** | Fast library for decrypting ETS2 / ATS game saves | Rust |
 | **[nbfc-qt](https://github.com/ShaptakNaskar/nbfc-qt)** · **[nbfc-gui](https://github.com/ShaptakNaskar/nbfc-gui)** | Laptop fan control for Linux that isn't a config file — Qt5 and PyQt6 front-ends for nbfc-linux | Python |
-| **[ai-job-search](https://github.com/ShaptakNaskar/ai-job-search)** | The job hunt, run locally: evaluate postings, tailor CVs, write cover letters, prep interviews | TypeScript |
-| **[Email-to-PDF-Lead-Automation](https://github.com/ShaptakNaskar/Email-to-PDF-Lead-Automation)** | Inbound email → website scrape → AI-generated branded proposal PDF → auto-reply | Python |
-| **[Content-Automation-Engine](https://github.com/ShaptakNaskar/Content-Automation-Engine)** | End-to-end social content creation and publishing pipeline | JavaScript |
 | **[google-photos-takeout-fix](https://github.com/ShaptakNaskar/google-photos-takeout-fix)** | Repairs the mess Google Takeout makes — re-embeds JSON metadata into your media | Python |
 | **[Hackintosh EFI](https://github.com/ShaptakNaskar/Lenovo-IdeaPad-130-15IKB-Hackintosh-EFI-macOS-Monterey)** | macOS Monterey on a Lenovo IdeaPad 130, fully documented | ACPI / C |
 
