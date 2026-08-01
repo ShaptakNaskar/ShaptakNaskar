@@ -3,7 +3,7 @@
 # Shaptak Naskar
 
 <a href="https://github.com/ShaptakNaskar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=FF6B9D&center=true&vCenter=true&width=680&lines=I+build+the+apps+I+wish+already+existed.;Flutter+%2F+Rust+%2F+Python+%2F+TypeScript;Music+players%2C+weather+HUDs%2C+Android+ROMs%2C+AI+automation;Kolkata%2C+India" alt="I build the apps I wish already existed — Flutter, Rust, Python, TypeScript. Kolkata, India." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=FF6B9D&center=true&vCenter=true&width=760&height=45&lines=I+build+the+apps+I+wish+already+existed.;Flutter+%2F+Rust+%2F+Python+%2F+TypeScript;Music+players%2C+weather+HUDs%2C+Android+ROMs;Kolkata%2C+India" alt="I build the apps I wish already existed — Flutter, Rust, Python, TypeScript. Kolkata, India." />
 </a>
 
 <br />
